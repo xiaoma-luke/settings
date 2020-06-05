@@ -1,0 +1,20 @@
+{
+    "books": [
+        {
+            "book": "Let's go 2",
+            "container": "letsgo2",
+            "discs": [
+                {
+                    "disc_name": "Disc A",
+                    "folder": "A",
+                    "max_track": 73
+                },
+                {
+                    "disc_name": "Disc B",
+                    "folder": "B",
+                    "max_track": 72
+                }
+            ]
+        }
+    ]
+}
