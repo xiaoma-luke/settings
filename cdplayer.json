@@ -2,6 +2,7 @@
     "albums": [
         {
             "album": "Let's Go 2",
+            "album_id": "letsgo2",
             "description": "Let's Go第二册CD",
             "container": "letsgo2",
             "discs": [
