@@ -1,7 +1,8 @@
 {
-    "books": [
+    "albums": [
         {
-            "book": "Let's go 2",
+            "album": "Let's Go 2",
+            "description": "Let's Go第二册CD",
             "container": "letsgo2",
             "discs": [
                 {
