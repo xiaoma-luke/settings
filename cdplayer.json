@@ -17,6 +17,37 @@
                     "max_track": 72
                 }
             ]
+        },
+        {
+            "album": "Let's Go 1",
+            "album_id": "letsgo1",
+            "description": "Let's Go第一册CD",
+            "container": "letsgo1",
+            "discs": [
+                {
+                    "disc_name": "Disc A",
+                    "folder": "A",
+                    "max_track": 99
+                },
+                {
+                    "disc_name": "Disc B",
+                    "folder": "B",
+                    "max_track": 99
+                }
+            ]
+        },
+        {
+            "album": "eiken5",
+            "album_id": "eiken5",
+            "description": "英检5级CD",
+            "container": "eiken5",
+            "discs": [
+                {
+                    "disc_name": "随书CD",
+                    "folder": "disk1",
+                    "max_track": 51
+                }
+            ]
         }
     ]
 }
